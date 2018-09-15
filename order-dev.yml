@@ -4,7 +4,7 @@ spring:
   datasource:
       driver-class-name: com.mysql.jdbc.Driver
       username: root
-      password: root
+      password: yiban
       url: jdbc:mysql://180.209.98.88:3306/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
 eureka:
   client:
